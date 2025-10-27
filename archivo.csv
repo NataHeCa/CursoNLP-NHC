@@ -1,0 +1,18 @@
+texto,texto_min,texto_espacios,texto_sin_punct,texto_sin_acentos,texto_sin_emoji,email,urls,texto_limpio_final,len_raw,len_clean
+  ¡Hola Mundo!!!  Esto es   un EJEMPLO: visita https://miweb.com  #DataScience  :)  ,  ¡hola mundo!!!  esto es   un ejemplo: visita https://miweb.com  #datascience  :)  ,¡hola mundo!!!  esto es   un ejemplo: visita https://miweb.com  #datascience  :),hola mundo  esto es   un ejemplo visita httpsmiwebcom  datascience  ,  ¡Hola Mundo!!!  Esto es   un EJEMPLO: visita https://miweb.com  #DataScience  :)  ,hola mundo  esto es   un ejemplo visita httpsmiwebcom  datascience  ,[],['https://miweb.com'],hola mundo esto es un ejemplo visita,84,36
+Pandas > numpy? 🤔  Email: persona@example.com   ,pandas > numpy? 🤔  email: persona@example.com   ,pandas > numpy? 🤔  email: persona@example.com,pandas  numpy   email personaexamplecom,Pandas > numpy? 🤔  Email: persona@example.com   ,pandas  numpy   email personaexamplecom,['persona@example.com'],[],pandas numpy email persona com,48,30
+Me gusta el café colombiano; es buenísimo!!! #Café #Colombia @juan,me gusta el café colombiano; es buenísimo!!! #café #colombia @juan,me gusta el café colombiano; es buenísimo!!! #café #colombia @juan,me gusta el café colombiano es buenísimo café colombia juan,Me gusta el cafe colombiano; es buenisimo!!! #Cafe #Colombia @juan,me gusta el café colombiano es buenísimo café colombia juan,[],[],me gusta el cafe colombiano es buenisimo,66,40
+Oferta!!! 3x2 en jabón líquido 500ml - CÓDIGO: A-123,oferta!!! 3x2 en jabón líquido 500ml - código: a-123,oferta!!! 3x2 en jabón líquido 500ml - código: a-123,oferta 3x2 en jabón líquido 500ml  código a123,Oferta!!! 3x2 en jabon liquido 500ml - CODIGO: A-123,oferta 3x2 en jabón líquido 500ml  código a123,[],[],oferta x en jabon liquido ml codigo a,52,37
+"      TABLAS	, 
+ espacios   y saltos de línea.
+","      tablas	, 
+ espacios   y saltos de línea.
+","tablas	, 
+ espacios   y saltos de línea.","tablas	 
+ espacios   y saltos de línea","      TABLAS	, 
+ espacios   y saltos de linea.
+","tablas	 
+ espacios   y saltos de línea",[],[],tablas espacios y saltos de linea,48,33
+Teléfono: (57) 300-123-45-67; Whatsapp +57 300 222 33 44,teléfono: (57) 300-123-45-67; whatsapp +57 300 222 33 44,teléfono: (57) 300-123-45-67; whatsapp +57 300 222 33 44,teléfono 57 3001234567 whatsapp 57 300 222 33 44,Telefono: (57) 300-123-45-67; Whatsapp +57 300 222 33 44,teléfono 57 3001234567 whatsapp 57 300 222 33 44,[],[],telefono whatsapp,56,17
+Dirección: Cll 10 # 5-20; Medellín. Barrio: La América,dirección: cll 10 # 5-20; medellín. barrio: la américa,dirección: cll 10 # 5-20; medellín. barrio: la américa,dirección cll 10  520 medellín barrio la américa,Direccion: Cll 10 # 5-20; Medellin. Barrio: La America,dirección cll 10  520 medellín barrio la américa,[],[],direccion cll medellin barrio la america,54,40
+"Emoji test: 😀🙌🏽🏳️‍🌈, símbolos ©®™ y otros…","emoji test: 😀🙌🏽🏳️‍🌈, símbolos ©®™ y otros…","emoji test: 😀🙌🏽🏳️‍🌈, símbolos ©®™ y otros…",emoji test  símbolos  y otros,"Emoji test: 😀🙌🏽🏳️‍🌈, simbolos ©®TM y otros...",emoji test  símbolos  y otros,[],[],emoji test simbolos y otros,42,27
