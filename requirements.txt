@@ -1,0 +1,15 @@
+[# Inicializar el repositorio (si no está iniciado)
+git init
+
+# Agregar los nuevos archivos
+git add README.md requirements.txt git_commands.txt
+
+# Confirmar los cambios
+git commit -m "Agregados README, requirements y comandos Git para entrega final NLP"
+
+# Vincular al repositorio remoto
+git remote add origin https://github.com/NataHeCa/CursoNLP-NHC.git
+
+# Subir los archivos al repositorio
+git push -u origin main
+]
